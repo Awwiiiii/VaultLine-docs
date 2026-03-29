@@ -1,30 +1,23 @@
 {
   "name": "VaultLine",
   "theme": "mint",
-  "navigation": [
-    {
-      "group": "Getting Started",
-      "pages": [
-        "index",
-        "introduction",
-        "why-vaultline"
-      ]
-    },
-    {
-      "group": "Core Concepts",
-      "pages": [
-        "concepts/system-integrity",
-        "concepts/failure-first-design",
-        "concepts/auditability",
-        "concepts/recoverability"
-      ]
-    },
-    {
-      "group": "Architecture",
-      "pages": [
-        "architecture/overview",
-        "architecture/transaction-lifecycle"
-      ]
-    }
-  ]
+  "colors": {
+    "primary": "#22c55e"
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Documentation",
+        "pages": [
+          "index",
+          "concepts/system-integrity",
+          "concepts/failure-first-design",
+          "concepts/auditability",
+          "concepts/recoverability",
+          "architecture/overview",
+          "architecture/transaction-lifecycle"
+        ]
+      }
+    ]
+  }
 }
