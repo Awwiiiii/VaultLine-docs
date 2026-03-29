@@ -1,5 +1,6 @@
 {
   "name": "VaultLine",
+  "theme": "mint",
   "navigation": [
     {
       "group": "Getting Started",
@@ -23,21 +24,6 @@
       "pages": [
         "architecture/overview",
         "architecture/transaction-lifecycle"
-      ]
-    },
-    {
-      "group": "Core Components",
-      "pages": [
-        "core-components/ledger",
-        "core-components/fraud-engine",
-        "core-components/recovery",
-        "core-components/audit-layer"
-      ]
-    },
-    {
-      "group": "Flows",
-      "pages": [
-        "flows/transaction-lifecycle"
       ]
     }
   ]
