@@ -177,5 +177,3 @@ It is built on the understanding that failure will occur — and that systems mu
 \> The goal is not to build systems that never fail.
 
 \> The goal is to build systems that never lose their integrity.
-
-\<!-- update --\>
