@@ -2,7 +2,6 @@
 title: "System Integrity"
 ---
 
-# System Integrity
 
 System Integrity is the ability of a system to remain correct, consistent, and trustworthy — even under failure.
 

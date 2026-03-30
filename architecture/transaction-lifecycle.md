@@ -2,7 +2,6 @@
 title: "Transaction Lifecycle"
 ---
 
-# Transaction Lifecycle
 
 A system is not defined by what it claims to do.
 

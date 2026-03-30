@@ -2,7 +2,6 @@
 title: "Failure First Design"
 ---
 
-# Failure-First Design
 
 VaultLine is built on a simple but critical assumption:
 

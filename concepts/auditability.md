@@ -2,7 +2,6 @@
 title: "Auditability"
 ---
 
-# Auditability
 
 Auditability is the ability of a system to provide a complete, accurate, and verifiable record of its behavior.
 

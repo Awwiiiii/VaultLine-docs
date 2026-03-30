@@ -1,8 +1,7 @@
 ---
-title: "Overview"
+title: "Architecture Overview"
 ---
 
-# Architecture Overview
 
 VaultLine is not designed as a collection of independent services.
 

@@ -2,7 +2,6 @@
 title: "Recoverability"
 ---
 
-# Recoverability
 
 Recoverability is the ability of a system to return to a correct, consistent, and trusted state after a failure.
 
