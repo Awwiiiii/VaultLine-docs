@@ -5,34 +5,18 @@
     "primary": "#22c55e"
   },
   "navigation": {
-    "Documentation": [
+    "groups": [
       {
-        "title": "VaultLine",
-        "href": "index"
-      },
-      {
-        "title": "System Integrity",
-        "href": "concepts/system-integrity"
-      },
-      {
-        "title": "Failure First Design",
-        "href": "concepts/failure-first-design"
-      },
-      {
-        "title": "Auditability",
-        "href": "concepts/auditability"
-      },
-      {
-        "title": "Recoverability",
-        "href": "concepts/recoverability"
-      },
-      {
-        "title": "Architecture Overview",
-        "href": "architecture/overview"
-      },
-      {
-        "title": "Transaction Lifecycle",
-        "href": "architecture/transaction-lifecycle"
+        "group": "Documentation",
+        "pages": [
+          "index",
+          "concepts/system-integrity",
+          "concepts/failure-first-design",
+          "concepts/auditability",
+          "concepts/recoverability",
+          "architecture/overview",
+          "architecture/transaction-lifecycle"
+        ]
       }
     ]
   }
